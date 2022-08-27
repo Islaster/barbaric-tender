@@ -185,61 +185,73 @@ export const Data = {
       effects: 5,
       price: 50,
       duration: 3,
-      SRC: "https://thumbs.dreamstime.com/b/transparent-bottle-vibrant-green-liquid-isolated-dark-background-transparent-bottle-vibrant-green-liquid-112138122.jpg",
+      src: "https://thumbs.dreamstime.com/b/transparent-bottle-vibrant-green-liquid-isolated-dark-background-transparent-bottle-vibrant-green-liquid-112138122.jpg",
     },
     {
       name: "Enhanced ACC Boost", //accuracy
       effects: 10,
       price: 100,
       duration: 3,
+      src: "https://thumbs.dreamstime.com/z/elixir-fantasy-games-bottle-game-s-83372897.jpg",
     },
+    //PINK
     {
       name: "STR Boost", //strength
       effects: 2, // plus 2 str
       price: 50,
       duartion: 3,
+      src: "https://i.pinimg.com/originals/f2/8e/47/f28e478abdffa50e9969e9aea28507e7.jpg",
     },
     {
       name: "Enhanced STR Boost", //strength
       effects: 5, //plus 5 str
       price: 100,
       duration: 3,
+      src: "https://i.pinimg.com/originals/c2/f2/34/c2f2340bc17c5122d7b7f8da9dc08a73.jpg",
     },
     {
+      //dark purple
       name: "INT Boost", //intelligence
       effects: 2,
       price: 85,
       duration: 3,
+      src: "https://i.pinimg.com/originals/86/28/16/862816a114ebce84e5a81bcfb9f43048.jpg",
     },
     {
       name: "Enhanced INT Boost", //intelligence
       effects: 5,
       price: 170,
       duration: 3,
+      src: "https://i.pinimg.com/736x/6c/7c/5e/6c7c5e362ec7fc284477e525c38553ea.jpg",
     },
+    //WHITE
     {
       name: "DEX Boost", //dexterity
       effects: 2,
       price: 150,
       duration: 3,
+      src: "https://c8.alamy.com/comp/W8Y85G/magic-potion-in-bottle-with-white-liquid-isolated-on-white-background-chemical-or-alchemy-elixir-vector-illustration-for-any-design-W8Y85G.jpg",
     },
     {
       name: "Enhanced DEX Boost", //dexterity
       effects: 5,
       price: 350,
       duration: 3,
+      src: "https://i.pinimg.com/originals/9c/e1/01/9ce101d2b8197e4a869ff98cc6a22042.png",
     },
     {
       name: "Witch's Brew", //Luck
       effects: 6,
       price: 200,
       duration: 3,
+      src: "https://static.wikia.nocookie.net/emerald-isles/images/6/60/Luck_Elixir.png/revision/latest/top-crop/width/360/height/360?cb=20180927195425",
     },
     {
       name: "HP Boost", //health
       effects: 100, //max health plus 100
       price: 200,
       duration: 3,
+      src: "https://cdna.artstation.com/p/assets/images/images/025/398/570/large/anne-marie-rytter-rytter-anne-marie-dd2p3.jpg?1585673119&dl=1",
     },
   ],
   enchantments: [
@@ -247,51 +259,61 @@ export const Data = {
       name: "ATK Enchant", //attack
       effects: 3, //atk plus 3
       price: 150,
+      src: "https://static.wikia.nocookie.net/finalfantasy/images/5/53/Potion-FFT.png/revision/latest/scale-to-width-down/250?cb=20121021152250",
     },
     {
       name: "ATK PLV Enchant", //Attack per level
       effects: 0.1,
       price: 300,
+      src: "https://i.pinimg.com/236x/fe/5e/ca/fe5eca27ab30691fef1ed7ee542c3a98.jpg",
     },
     {
       name: "MATK Enchant", //magic attack
       effects: 3,
       price: 150,
+      src: "https://www.gamersdecide.com/sites/default/files/styles/news_images/public/dnd-3-giant.jpg",
     },
     {
       name: "MATK PLV Enchant", //magic attack per level
       effects: 0.1,
       price: 300,
+      src: "https://ih1.redbubble.net/image.1033848586.1979/poster,504x498,f8f8f8-pad,600x600,f8f8f8.jpg",
     },
     {
       name: "DEF Enchant", //Defense
       effects: 3,
       price: 150,
+      src: "https://i.pinimg.com/originals/ec/f4/e8/ecf4e8fbc08fa6cfc0aadd5b6baa7a1d.png",
     },
     {
       name: "DEF PLV Enchant", //Defense per level
       effects: 0.1,
       price: 300,
+      src: "https://cdnb.artstation.com/p/assets/images/images/025/035/069/large/bolbukh-svetlana-0001.jpg?1584378592",
     },
     {
       name: "MDEF Enchant", //magic defense
       effects: 3,
       price: 150,
+      src: "https://i.etsystatic.com/31016422/r/il/a13738/3792501727/il_fullxfull.3792501727_8j34.jpg",
     },
     {
       name: "MDEF PLV Enchant", //magic defense per level
       effects: 0.1,
       price: 300,
+      src: "https://i.etsystatic.com/31788699/r/il/7fbbc4/3366268193/il_340x270.3366268193_spm8.jpg",
     },
     {
       name: "ACC Enchant", //accuracy
       effects: 3,
       price: 150,
+      src: "https://v1cdn.destructoid.com/11305-noscale-final%2520fantasy%2520potion.jpg",
     },
     {
       name: "ACC PLV Enchant", //accuracy per level
       effects: 0.1,
       price: 300,
+      src: "https://i5.walmartimages.com/asr/fc7db511-93d5-488e-af2a-a0ad63863968.ee4b48538ece42531a4eecdb54c4f7f4.jpeg",
     },
   ],
 };
